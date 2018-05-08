@@ -1,0 +1,23 @@
+{
+  "name": "1-git",
+  "version": "1.0.0",
+  "description": "Hello world 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqt-fred/1-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lqt-fred/1-git/issues"
+  },
+  "homepage": "https://github.com/lqt-fred/1-git#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^6.2.0"
+  }
+}
